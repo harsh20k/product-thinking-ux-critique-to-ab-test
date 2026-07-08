@@ -1,0 +1,9 @@
+# Notes (never sync)
+notes/
+
+# OS
+.DS_Store
+
+# Node.js (if used for prototypes/experiments)
+node_modules/
+.env
